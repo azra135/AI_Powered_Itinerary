@@ -1,0 +1,10 @@
+{
+  "city": "Delhi",
+  "days": 3,
+  "budget": 20000,
+  "plan": [
+    {"day": 1, "activity": "Visit Red Fort, Lunch at Karim’s"},
+    {"day": 2, "activity": "National Museum (indoor, if rain)"},
+    {"day": 3, "activity": "India Gate + Connaught Place shopping"}
+  ]
+}
